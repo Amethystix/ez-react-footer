@@ -1,0 +1,22 @@
+{
+  "name": "ez-react-footer",
+  "version": "1.0.0",
+  "description": "Easy to use Footer component that always sticks to the bottom of the page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amethystix/ez-react-footer.git"
+  },
+  "author": "Amethystix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amethystix/ez-react-footer/issues"
+  },
+  "homepage": "https://github.com/Amethystix/ez-react-footer#readme",
+  "devDependencies": {
+    "typescript": "^4.8.3"
+  }
+}
